@@ -12,7 +12,7 @@ body { background: #0f0f0f; }
    -moz-background: url("https://tib-ved.github.io/images/2.JPG") no-repeat center center fixed;
    -o-background: url("https://tib-ved.github.io/images/2.JPG") no-repeat center center fixed;
    -ms-background: url("https://tib-ved.github.io/images/2.JPG") no-repeat center center fixed;
-   background-size: autopx autopx;
+   
    background-size: cover !important;
   -webkit-background-size: cover !important;
    -o-background-size: cover!important;
